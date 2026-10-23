@@ -1,0 +1,6 @@
+{
+  "name": "DAYFLOW — Make Every Minute Matter",
+  "description": "An all-in-one productivity suite with smart tasks, accurate Pomodoro focus timer, habit tracker, daily planner, focus garden, and real-time productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
